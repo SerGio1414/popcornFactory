@@ -1,0 +1,666 @@
+[
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_smallville.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-ldpi\\smallville.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_smallvilleheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxxhdpi\\smallvilleheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_leapyear.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\leapyear.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_toystory.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-hdpi\\toystory.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_inceptionheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxxhdpi\\inceptionheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_friendsheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-ldpi\\friendsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_radio_selected.xml.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\radio_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_drwhoheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-ldpi\\drwhoheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mib.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxhdpi\\mib.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_drhouse.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxxhdpi\\drhouse.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_leapyearheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-hdpi\\leapyearheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_inceptionheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxhdpi\\inceptionheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mibheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\mibheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_toystory.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\toystory.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_drwho.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxxhdpi\\drwho.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_leapyearheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxhdpi\\leapyearheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_suits.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-hdpi\\suits.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_popcorn.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-ldpi\\popcorn.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_catalog.xml.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\layout\\activity_catalog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_househeader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-mdpi\\househeader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_suits.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-ldpi\\suits.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_suits.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-mdpi\\suits.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_friends.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-hdpi\\friends.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_leapyear.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-hdpi\\leapyear.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_mib.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxxhdpi\\mib.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_inceptionheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-mdpi\\inceptionheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bighero6.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-hdpi\\bighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_leapyear.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxhdpi\\leapyear.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_popcorn.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-hdpi\\popcorn.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_inceptionheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-ldpi\\inceptionheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_drwho.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\drwho.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radio_normal.xml.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable\\radio_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bones.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxhdpi\\bones.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smallvilleheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-mdpi\\smallvilleheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_popcorn.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-mdpi\\popcorn.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_popcorn.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\popcorn.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_friends.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-mdpi\\friends.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_leapyearheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-ldpi\\leapyearheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smallville.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-hdpi\\smallville.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_friendsheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\friendsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_friends.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-ldpi\\friends.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_bones.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxxhdpi\\bones.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_inceptionheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\inceptionheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_househeader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxxhdpi\\househeader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_round_button.xml.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mibheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxhdpi\\mibheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_drwhoheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-mdpi\\drwhoheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_drwhoheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\drwhoheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_suits.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\suits.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mib.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\mib.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_inception.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\inception.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_popcorn.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxhdpi\\popcorn.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_headerbighero6.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\headerbighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_drwhoheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxhdpi\\drwhoheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_suitsheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxxhdpi\\suitsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_headerbighero6.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxhdpi\\headerbighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_friends.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\friends.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bighero6.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\bighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radio_disable.xml.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable\\radio_disable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_leapyear.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-mdpi\\leapyear.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_toystory.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxxhdpi\\toystory.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bighero6.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxhdpi\\bighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_smallvilleheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-ldpi\\smallvilleheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_drwho.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-mdpi\\drwho.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_drwho.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-ldpi\\drwho.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_bonesheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxxhdpi\\bonesheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_toystory.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-ldpi\\toystory.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smallville.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-mdpi\\smallville.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_drwhoheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-hdpi\\drwhoheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_leapyearheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-mdpi\\leapyearheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_inception.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-hdpi\\inception.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_leapyearheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxxhdpi\\leapyearheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_toystoryheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-ldpi\\toystoryheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_mib.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-ldpi\\mib.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bighero6.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-mdpi\\bighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_drwho.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-hdpi\\drwho.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_toystoryheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-hdpi\\toystoryheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_inception.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxxhdpi\\inception.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_toystoryheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxxhdpi\\toystoryheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_inception.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxhdpi\\inception.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_toystoryheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-mdpi\\toystoryheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mib.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-mdpi\\mib.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_suitsheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxhdpi\\suitsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mibheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-mdpi\\mibheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smallvilleheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-hdpi\\smallvilleheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_headerbighero6.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-hdpi\\headerbighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_inception.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-mdpi\\inception.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_friends.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxxhdpi\\friends.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smallvilleheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\smallvilleheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_suitsheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-hdpi\\suitsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_friendsheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxxhdpi\\friendsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_headerbighero6.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-mdpi\\headerbighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_drhouse.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-hdpi\\drhouse.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mib.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-hdpi\\mib.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_friendsheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-mdpi\\friendsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_mibheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxxhdpi\\mibheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_drhouse.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-ldpi\\drhouse.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_drhouse.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxhdpi\\drhouse.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_mibheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-ldpi\\mibheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\layout_cell_movie.xml.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\layout\\cell_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_popcorn.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxxhdpi\\popcorn.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_headerbighero6.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxxhdpi\\headerbighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_inceptionheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-hdpi\\inceptionheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_movie_detail.xml.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\layout\\activity_movie_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mibheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-hdpi\\mibheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_suits.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxhdpi\\suits.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_househeader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-hdpi\\househeader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_toystory.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-mdpi\\toystory.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_suits.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxxhdpi\\suits.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_friends.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxhdpi\\friends.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_suitsheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-mdpi\\suitsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_radio_normal.xml.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\radio_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_drwhoheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxxhdpi\\drwhoheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bonesheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxhdpi\\bonesheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_househeader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxhdpi\\househeader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_button.xml.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bones.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\bones.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_smallvilleheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxhdpi\\smallvilleheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_friendsheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-hdpi\\friendsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_leapyearheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\leapyearheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_headerbighero6.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-ldpi\\headerbighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_drhouse.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-mdpi\\drhouse.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_drwho.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxhdpi\\drwho.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bonesheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-hdpi\\bonesheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_househeader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\househeader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_househeader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-ldpi\\househeader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bones.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-ldpi\\bones.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_toystoryheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\toystoryheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_smallville.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxhdpi\\smallville.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bones.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-mdpi\\bones.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_suitsheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\suitsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_drhouse.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\drhouse.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bonesheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-mdpi\\bonesheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_friendsheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxhdpi\\friendsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bones.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-hdpi\\bones.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_toystoryheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxhdpi\\toystoryheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bonesheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-ldpi\\bonesheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bonesheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\bonesheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_inception.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-ldpi\\inception.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bighero6.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-ldpi\\bighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_leapyear.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxxhdpi\\leapyear.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_smallville.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxxhdpi\\smallville.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_radio_selectable.xml.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\radio_selectable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_toystory.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxhdpi\\toystory.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smallville.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\smallville.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_suitsheader.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-ldpi\\suitsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_bighero6.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xxxhdpi\\bighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_radio_disabled.xml.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-xhdpi\\radio_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_leapyear.png.flat",
+        "source": "C:\\Users\\Sergio\\Downloads\\popcornfactory-seats\\popcornfactory-seats\\app\\src\\main\\res\\drawable-ldpi\\leapyear.png"
+    }
+]

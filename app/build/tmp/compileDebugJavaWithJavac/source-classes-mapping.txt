@@ -1,0 +1,2 @@
+com/example/popcornfactory/BuildConfig.java
+ com.example.popcornfactory.BuildConfig
